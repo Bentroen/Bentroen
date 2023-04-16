@@ -1,9 +1,11 @@
 # Hello, I'm Bentroen!✨
 
-- I'm the maintainer of [Open Note Block Studio](https://github.com/OpenNBS/OpenNoteBlockStudio), a music-making app aimed at creating note block music for Minecraft.
-- I'm currently studying Computer Science and full-stack web development.
+- Maintainer of [Open Note Block Studio](https://github.com/OpenNBS/OpenNoteBlockStudio), a music-making app aimed at creating note block music for Minecraft.
+- Pursuing a data analytics internship at the Federal Court of Accounts ([TCU](https://portal.tcu.gov.br/en_us/english/inside-tcu/the-court/)) at Rio de Janeiro, working with PowerBI, SQL, Python and R.
+- Member of [Project OMA](https://github.com/Project-OMA), a research project aimed at creating tools to support Orientation & Mobility teaching for blind and visually-impaired people, combining virtual reality and data analytics.
+- Currently studying Computer Science and full-stack web development.
 - I have a [YouTube channel](https://youtube.com/Bentroen2) where I post note block covers and gameplays.
-- I love tech, gaming, video editing, piano, making music, and pets! Oh, and I'm fascinated by space. (Yes I have lots of hobbies! 😅)
+- I love tech, gaming, video editing, playing the piano, making music, and pets! Oh, and I'm fascinated by space. (Yes I have lots of hobbies! 😅)
 <!--
 
 - I'm Brazilian, então me dá um oi! 👋
