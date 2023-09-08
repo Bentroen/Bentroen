@@ -63,7 +63,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bentroen&theme=radical&line_height=24&custom_title=Bentroen's+GitHub+Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bentroen&langs_count=8&layout=compact&card_width=250&theme=radical&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bentroen&langs_count=8&layout=compact&card_width=250&theme=radical&include_all_commits=true&count_private=true&hide=jupyter%20notebook" />
 </p>
 
 
