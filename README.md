@@ -1,17 +1,20 @@
 # Hello, I'm Bentroen!✨
 
-- Maintainer of [Open Note Block Studio](https://github.com/OpenNBS/OpenNoteBlockStudio), a music-making app aimed at creating note block music for Minecraft.
-- Pursuing a data analytics internship at the Federal Court of Accounts ([TCU](https://portal.tcu.gov.br/en_us/english/inside-tcu/the-court/)) at Rio de Janeiro, working with PowerBI, SQL, Python and R.
-- Member of [Project OMA](https://github.com/Project-OMA), a research project aimed at creating tools to support Orientation & Mobility teaching for blind and visually-impaired people, combining virtual reality and data analytics.
-- Currently studying Computer Science and full-stack web development.
+I'm a CS grad and full-stack developer from Brazil.
+
+I enjoy gaming and music-related projects — especially those that involve coding!
+
+---
+
+⚙️ Some cool things I'm doing:
+
+- Maintainer and Lead Developer at [@OpenNBS](https://github.com/OpenNBS), making [Note Block Studio](https://noteblock.studio) and [Note Block World](https://noteblock.world).
+- Computer Science master's student @ UFSJ, researching Music Computing.
+- Technical Support Specialist @ [idwall](https://idwall.co/en-US/)
+- BSc, Computer Science @ CEFET/RJ (2024)
+- Former _Minecraft: Java Edition_ Brazilian Portuguese translator
 - I have a [YouTube channel](https://youtube.com/Bentroen2) where I post note block covers and gameplays.
-- I love tech, gaming, video editing, playing the piano, making music, and pets! Oh, and I'm fascinated by space. (Yes I have lots of hobbies! 😅)
-<!--
-
-- I'm Brazilian, então me dá um oi! 👋
-
-###### *Who said you can't be a dog AND a cat person? ;3
--->
+- Gaming, video editing, piano, music production, and tech enthusiast! Oh, and I love pets. (Who said you can't be both a dog _and_ a cat person? 😅)
 
 
 
